@@ -20,9 +20,6 @@ Signed-off-by: Robert Marko <robimarko@gmail.com>
 +dtb-$(CONFIG_ARCH_QCOM)	+= ipq8071-ax6.dtb
 +dtb-$(CONFIG_ARCH_QCOM)	+= ipq8071-ax3600.dtb
 +dtb-$(CONFIG_ARCH_QCOM)	+= ipq8071-mf269.dtb
-+dtb-$(CONFIG_ARCH_QCOM)	+= ipq8078-xtr10890.dtb
-+dtb-$(CONFIG_ARCH_QCOM)	+= ipq8070-tl-er2260t.dtb
-+dtb-$(CONFIG_ARCH_QCOM)	+= ipq8074-nbg7815.dtb
  dtb-$(CONFIG_ARCH_QCOM)	+= ipq8074-hk01.dtb
  dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-longcheer-l8150.dtb
  dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-mtp.dtb
