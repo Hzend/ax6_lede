@@ -40,7 +40,11 @@
 	};
 };
 
+<<<<<<< HEAD:target/linux/ipq807x/files-5.10/arch/arm64/boot/dts/qcom/ipq8071-ax3600.dts
 &pcie_qmp0 {
+=======
+&qmp_pcie_phy0 {
+>>>>>>> parent of edbd8d2e9 (ipq807x: drop all xiaomi devices support):target/linux/ipq807x/files/arch/arm64/boot/dts/qcom/ipq8071-ax3600.dts
 	status = "okay";
 };
 
